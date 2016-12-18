@@ -1,0 +1,5 @@
+C:\Users\jason\Projects\Indasys Apps\trunk\Indasys.QuickFramework\bin\Debug\Indasys.QuickFramework.dll
+C:\Users\jason\Projects\Indasys Apps\trunk\Indasys.QuickFramework\bin\Debug\Indasys.QuickFramework.pdb
+C:\Users\jason\Projects\Indasys Apps\trunk\Indasys.QuickFramework\obj\Debug\Indasys.QuickFramework.csprojResolveAssemblyReference.cache
+C:\Users\jason\Projects\Indasys Apps\trunk\Indasys.QuickFramework\obj\Debug\Indasys.QuickFramework.dll
+C:\Users\jason\Projects\Indasys Apps\trunk\Indasys.QuickFramework\obj\Debug\Indasys.QuickFramework.pdb
